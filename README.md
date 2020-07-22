@@ -1,4 +1,2 @@
 # Tanukikun.github.io
-HTML5 Class Projects
-C# Projects
-Unity Scripting Projects
+HTML5, C#, and Unity Scripting Projects
